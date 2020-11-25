@@ -8,7 +8,7 @@ public class Constructor {
 	
 	public Constructor(int a){
 		
-		System.out.println("I am in parameterised constructor");	
+		System.out.println("I am in parameterized constructor");	
 		}
 public void method(){
 	System.out.println("I am in method");

@@ -21,7 +21,7 @@ public class ActiveElements {
 			
 		}
 		
-		System.out.println("Done");
+		System.out.println("Done");//Prints done 
 		
 		
 		driver.close();

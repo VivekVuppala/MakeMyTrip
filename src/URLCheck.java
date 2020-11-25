@@ -12,7 +12,7 @@ public class URLCheck {
 		driver.get(givenURL);
 		Thread.sleep(3000);
 		driver.manage().window().maximize();
-		//String Navigated = driver.getCurrentUrl();
+		//String Navigated = driver.getCurrentUrl();    gets URL
 		Assert.assertEquals("Hello",driver.getTitle());
 		
 		
